@@ -78,7 +78,7 @@ MiniGit is an implementation of a version-control system. This version-control s
 - merge :- Merges files from the given branch into the current branch
               * Usage: ~~~ java MiniGit merge [branch name] ~~~
 
-![Alt Text](https://github.com/trxw/MiniGit/blob/master/assets/split_point.png)
+![Alt Text](https://github.com/bkargaw/MiniGit/blob/master/assets/split_point.png)
 
 ## Future Directions
 - Objective:-  Going Remote allow the ability to save files from the local version to a remote version. This will try to mimic the popular online repo Github.The new functionalities will be...  
